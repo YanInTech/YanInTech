@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YanInTech
 - 👀 I’m interested in Web Development or anything intriguing
-- 🌱 I’m currently learning Web DEvelopment
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: She
