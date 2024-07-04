@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 😄 Pronouns: She
+- 😄 Pronouns: She/her
 - ⚡ Fun fact: I'm a slow learner
 
 <!---
