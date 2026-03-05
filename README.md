@@ -1,13 +1,13 @@
-# Hi there, I'm Yan 👋
+# Hi there, I'm Yan
 
-### 👨‍💻 About Me
+### About Me
 I'm a student who likes building **random tech projects**, **fun experiments**, and **hands-on recreations**
 
 I like building things spontaneously, whether for curiosity, learning, or just because it’s cool.  
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 Here are some of the technologies I work with:
 
 - **Languages:** JavaScript, Python, PHP, HTML, CSS  
@@ -18,7 +18,7 @@ Here are some of the technologies I work with:
 
 ---
 
-### 🌟 Projects
+### Projects
 Here are a few projects I'm proud of:
 
 1. **[Basic PHP Project](https://project1-j7up.onrender.com)** – A minimalist and clean PHP web app I built for a school project. Crammed from 8 PM to 5 AM before the deadline, it earned me high marks! Despite its simplicity, I think it’s super cute—proof that a little focus and creativity can go a long way, even without flashy colors or animations.
@@ -27,11 +27,11 @@ Here are a few projects I'm proud of:
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=YanInTech&show_icons=true&theme=dracula)
 
 
 ---
 
-### ⚡ Fun Fact
-I love **gaming 🎮**, **spending sleepless nights coding just because I can 🌙**, and **exploring new ways to make cool or useful things 💡**.
+### Fun Fact
+I love **gaming**, **spending sleepless nights coding just because I can**, and **exploring new ways to make cool or useful things**.
