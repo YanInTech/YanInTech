@@ -12,8 +12,8 @@ Here are some of the technologies I work with:
 
 - **Languages:** JavaScript, Python, PHP, HTML, CSS  
 - **Frontend:** React, Tailwind CSS  
-- **Backend:** Laravel, Node.js  
-- **Database:** MySQL, Firebase  
+- **Backend:** Laravel, ASP.NET CORE  
+- **Database:** MySQL, Supabase  
 - **Other Tools:** Git, Figma  
 
 ---
